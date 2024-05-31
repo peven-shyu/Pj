@@ -14,7 +14,7 @@
 
 * 进行数据可视化研究
 
-* <font color = "lightblue">**新的学习算法的研究，包括强化学习、gplearn等**</font>
+* <font color = "red">**新的学习算法的研究，包括强化学习、gplearn等**</font>
 
 * 模拟交易的实现
 
